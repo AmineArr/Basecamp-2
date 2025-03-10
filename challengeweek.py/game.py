@@ -24,3 +24,6 @@ while True:
             elif letter == char:
                 print(f"{letter} is de correcte letter")
                 exit()
+
+
+#mo je stinkt
