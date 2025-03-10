@@ -1,0 +1,2 @@
+license = input()
+print(license[])
