@@ -23,4 +23,4 @@ while True:
                 exit()
             elif letter == char:
                 print(f"{letter} is de correcte letter")
-
+                exit()
